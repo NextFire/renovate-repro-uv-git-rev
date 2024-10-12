@@ -7,5 +7,5 @@ requires-python = ">=3.9"
 dependencies = ["cowsay", "yt-dlp"]
 
 [tool.uv.sources]
-cowsay = { git = "https://github.com/VaasuDevanS/cowsay-python.git", tag = "v6.0" }
+cowsay = { git = "https://github.com/VaasuDevanS/cowsay-python.git", tag = "v6.1" }
 yt-dlp = { git = "https://github.com/yt-dlp/yt-dlp.git", rev = "983c58fb7a809d827b5821d493819da954f2c00b" }
