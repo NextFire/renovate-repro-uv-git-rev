@@ -318,7 +318,7 @@ dependencies = [
 [package.metadata]
 requires-dist = [
     { name = "cowsay", git = "https://github.com/VaasuDevanS/cowsay-python.git?rev=3db622cefd8b11620ece7386d4151b5e734b078b" },
-    { name = "yt-dlp", git = "https://github.com/yt-dlp/yt-dlp.git?rev=983c58fb7a809d827b5821d493819da954f2c00b" },
+    { name = "yt-dlp", git = "https://github.com/yt-dlp/yt-dlp.git?rev=f4338714241b11d9d43768ae71a25f5e952f677d" },
 ]
 
 [[package]]
@@ -424,7 +424,7 @@ wheels = [
 [[package]]
 name = "yt-dlp"
 version = "2024.10.7"
-source = { git = "https://github.com/yt-dlp/yt-dlp.git?rev=983c58fb7a809d827b5821d493819da954f2c00b#983c58fb7a809d827b5821d493819da954f2c00b" }
+source = { git = "https://github.com/yt-dlp/yt-dlp.git?rev=f4338714241b11d9d43768ae71a25f5e952f677d#f4338714241b11d9d43768ae71a25f5e952f677d" }
 dependencies = [
     { name = "brotli", marker = "implementation_name == 'cpython'" },
     { name = "brotlicffi", marker = "implementation_name != 'cpython'" },
