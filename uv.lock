@@ -248,8 +248,8 @@ wheels = [
 
 [[package]]
 name = "cowsay"
-version = "6.0"
-source = { git = "https://github.com/VaasuDevanS/cowsay-python.git?tag=v6.0#284cfaf5916178cdf7a79f70ce0fa4ea71483e94" }
+version = "6.1"
+source = { git = "https://github.com/VaasuDevanS/cowsay-python.git?tag=v6.1#9b627e154adb29f3840a0f92229b88fbd495baf4" }
 
 [[package]]
 name = "idna"
@@ -317,7 +317,7 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "cowsay", git = "https://github.com/VaasuDevanS/cowsay-python.git?tag=v6.0" },
+    { name = "cowsay", git = "https://github.com/VaasuDevanS/cowsay-python.git?tag=v6.1" },
     { name = "yt-dlp", git = "https://github.com/yt-dlp/yt-dlp.git?rev=983c58fb7a809d827b5821d493819da954f2c00b" },
 ]
 
