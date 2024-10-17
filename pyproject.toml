@@ -8,4 +8,4 @@ dependencies = ["cowsay", "yt-dlp"]
 
 [tool.uv.sources]
 cowsay = { git = "https://github.com/VaasuDevanS/cowsay-python.git", tag = "v6.0" }
-yt-dlp = { git = "https://github.com/yt-dlp/yt-dlp.git", rev = "983c58fb7a809d827b5821d493819da954f2c00b" }
+yt-dlp = { git = "https://github.com/yt-dlp/yt-dlp.git", rev = "fbc66e3ab35743cc847a21223c67d88bb463cd9c" }
